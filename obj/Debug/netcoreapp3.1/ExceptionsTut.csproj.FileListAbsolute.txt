@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\DebuggingTheCode\ExceptionsTut\bin\Debug\netcoreapp3.1\ExceptionsTut.exe
+C:\Users\Bla\source\repos\DebuggingTheCode\ExceptionsTut\bin\Debug\netcoreapp3.1\ExceptionsTut.deps.json
+C:\Users\Bla\source\repos\DebuggingTheCode\ExceptionsTut\bin\Debug\netcoreapp3.1\ExceptionsTut.runtimeconfig.json
+C:\Users\Bla\source\repos\DebuggingTheCode\ExceptionsTut\bin\Debug\netcoreapp3.1\ExceptionsTut.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\DebuggingTheCode\ExceptionsTut\bin\Debug\netcoreapp3.1\ExceptionsTut.dll
+C:\Users\Bla\source\repos\DebuggingTheCode\ExceptionsTut\bin\Debug\netcoreapp3.1\ExceptionsTut.pdb
+C:\Users\Bla\source\repos\DebuggingTheCode\ExceptionsTut\obj\Debug\netcoreapp3.1\ExceptionsTut.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\DebuggingTheCode\ExceptionsTut\obj\Debug\netcoreapp3.1\ExceptionsTut.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\DebuggingTheCode\ExceptionsTut\obj\Debug\netcoreapp3.1\ExceptionsTut.AssemblyInfo.cs
+C:\Users\Bla\source\repos\DebuggingTheCode\ExceptionsTut\obj\Debug\netcoreapp3.1\ExceptionsTut.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\DebuggingTheCode\ExceptionsTut\obj\Debug\netcoreapp3.1\ExceptionsTut.dll
+C:\Users\Bla\source\repos\DebuggingTheCode\ExceptionsTut\obj\Debug\netcoreapp3.1\ExceptionsTut.pdb
+C:\Users\Bla\source\repos\DebuggingTheCode\ExceptionsTut\obj\Debug\netcoreapp3.1\ExceptionsTut.genruntimeconfig.cache
