@@ -1,2 +1,2 @@
 # ExceptionTutorial
-ExceptionsTurortial
+ExceptionsTutorial
